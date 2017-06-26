@@ -11,6 +11,17 @@ Annovar
 
 Phenolyzer
 
+# Installation 
+
+Please clone the repository into your computer:
+
+    git clone https://github.com/WGLab/iMEGES
+
+Then enter iMEGES directory:
+
+    cd iMEGES
+
+
 # License Agreement
 
 By using the software, you acknowledge that you agree to the terms below:
