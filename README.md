@@ -17,7 +17,7 @@ For academic and non-profit use, you are free to fork, download, modify, distrib
 
 # Reference
 
-Khan A, Wang K, *iMEGES: integrated Mental-disorder GEnome score for prioritizing the susceptibility genes in personal mental disorders*, In prepration.
+Khan A, Wang K, **iMEGES: integrated Mental-disorder GEnome score for prioritizing the susceptibility genes in personal mental disorders**, In prepration.
 
 
 
