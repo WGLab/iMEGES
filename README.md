@@ -7,11 +7,14 @@ integrated Mental-disorder Genome Score
 
 
 # Dependency
+Annovar
 
+Phenolyzer
 
 # License Agreement
 
 By using the software, you acknowledge that you agree to the terms below:
+
 For academic and non-profit use, you are free to fork, download, modify, distribute and use the software without restriction.
 
 
