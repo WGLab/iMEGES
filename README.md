@@ -1,6 +1,4 @@
-# iMEGES
-
-integrated Mental-disorder Genome Score
+## iMEGES: integrated Mental-disorder Genome Score
 
 # Introduction
 
