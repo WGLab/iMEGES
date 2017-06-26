@@ -20,6 +20,10 @@ Please clone the repository into your computer:
 Then enter iMEGES directory:
 
     cd iMEGES
+    
+# Synopsis
+
+    python iMEGES_17.py --help
 
 
 # License Agreement
