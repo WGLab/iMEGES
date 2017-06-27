@@ -33,16 +33,19 @@ By using the software, you acknowledge that you agree to the terms below:
 
 For academic and non-profit use, you are free to fork, download, modify, distribute and use the software without restriction.
 
-
-## Reference
-
-Khan A, Wang K, **iMEGES: integrated Mental-disorder GEnome score for prioritizing the susceptibility genes in personal mental disorders**, In prepration.
-
 ## Contact
 Atlas Khan (ak4046@cumc.columbia.edu)
 
 Kai Wang (kw@cumc.columbia.edu)
 
+## Reference
+
+Khan A, Wang K, **iMEGES: integrated Mental-disorder GEnome score for prioritizing the susceptibility genes in personal mental disorders**, In prepration.
+
+
+
+## More information
+Wang Genomics Lab Homepage (http://wglab.org/)
 
 
 
