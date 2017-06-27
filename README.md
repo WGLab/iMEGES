@@ -42,8 +42,6 @@ Kai Wang (kw@cumc.columbia.edu)
 
 Khan A, Wang K, **iMEGES: integrated Mental-disorder GEnome score for prioritizing the susceptibility genes in personal mental disorders**, In prepration.
 
-
-
 ## More information
 Wang Genomics Lab Homepage (http://wglab.org/)
 
