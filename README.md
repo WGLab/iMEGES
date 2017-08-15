@@ -10,8 +10,7 @@ The first step of the iMEGES take non-coding variants as input and prioritize th
 # Disease specific brain gene score (Gene prioritization) 
 The gene prioritization step of iMEGES mainly based on annotations for each variant from the first step of iMEGES variant prioritization and machine learning based brain score named as ncDeepBrain.
 To characterize each gene, we annotated each of the variants with three genomic feature scores: 
-Machine learning brain variant score, general score (RVIs, GTEx, haploinsufficient scores), Phenolyzerdisease specific score such as Phenolyzer, CNVsSS score and de novo mutation score. To link the non-coding variants with PhenolyzerPhenolyzer and RVIs score to a gene, we assigned each of these variants to it closet gene in term of genome distance, i.e., dis-tance to gene is 100KB or less. Considering the fact that maybe some genes harbor more than one mutations, we consider all the mutations and prioritize each of the variants for the specific mental disorders genes. After integration of these pieces of information, the output of the second layer is the deep learning probability for each of the mutated gene, namely the iMEGES score, which measure the susceptibility potential for this gene.
-
+Machine learning brain variant score, general score (RVIs, GTEx, haploinsufficient scores), Phenolyzerdisease specific score such as Phenolyzer, CNVsSS score and de novo mutation score. To link the non-coding variants with PhenolyzerPhenolyzer and RVIs score to a gene, we assigned each of these variants to it closet gene in term of genome distance, i.e., distance to gene is 100KB or less. Considering the fact that maybe some genes harbor more than one mutations, we consider all the mutations and prioritize each of the variants for the specific mental disorders genes. After integration of these pieces of information, the output of the second layer is the deep learning probability for each of the mutated gene, namely the iMEGES score, which measure the susceptibility potential for this gene.
 
 This is the GitHub repository for the documentation of the iMEGES software, described in the paper listed below. If you like this repository, please click on the "Star" button on top of this page, to show appreciation to the repository maintainer. If you want to receive notifications on changes to this repository, please click the "Watch" button on top of this page.
 
@@ -20,6 +19,7 @@ This is the GitHub repository for the documentation of the iMEGES software, desc
 Annovar
 
 Phenolyzer
+
 
 ## Installation 
 
