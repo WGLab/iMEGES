@@ -33,7 +33,7 @@ Then enter iMEGES directory:
     
 ## Synopsis
 
-    python iMEGES_17.py --help
+    python ncDeepBrain.py --help
 
 
 ## License Agreement
