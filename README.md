@@ -74,7 +74,7 @@ Kai Wang (kw2701@cumc.columbia.edu)
 
 ## Reference
 
-Khan A, Wang K, **iMEGES: integrated Mental-disorder GEnome score for prioritizing the susceptibility genes in personal mental disorders**, In prepration.
+Khan A, Wang K, **iMEGES: integrated Mental-disorder GEnome score for prioritizing the susceptibility genes in personal genomes**, In prepration.
 
 ## More information
 Wang Genomics Lab Homepage (http://wglab.org/)
