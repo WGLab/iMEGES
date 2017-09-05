@@ -20,7 +20,37 @@ Annovar http://annovar.openbioinformatics.org/en/latest/
 
 Phenolyzer http://phenolyzer.wglab.org/
 
+EIGEN http://www.columbia.edu/~ii2135/eigen.html
 
+CADD http://cadd.gs.washington.edu/
+
+DANN https://cbcl.ics.uci.edu/public_data/DANN/ 
+
+GWAVA https://www.sanger.ac.uk/sanger/StatGen_Gwava
+
+FATHMM http://fathmm.biocompute.org.uk/
+
+GNOMAD http://gnomad.broadinstitute.org/
+
+PsychEncode
+
+EpiMap https://www.synapse.org/#!Synapse:syn5691268
+
+CNON https://www.synapse.org/#!Synapse:syn4598822
+
+Yale-ASD https://www.synapse.org/#!Synapse:syn4566311
+
+Brain eQTLs
+
+https://www.synapse.org/#!Synapse:syn4622659
+
+RVIs 
+
+http://genic-intolerance.org/
+
+GTEx 
+
+http://www.gtexportal.org/home/
 
 ## Installation 
 
