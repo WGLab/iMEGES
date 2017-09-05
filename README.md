@@ -16,9 +16,10 @@ This is the GitHub repository for the documentation of the iMEGES software, desc
 
 
 ## Dependency
-Annovar
+Annovar http://annovar.openbioinformatics.org/en/latest/
 
-Phenolyzer
+Phenolyzer http://phenolyzer.wglab.org/
+
 
 
 ## Installation 
