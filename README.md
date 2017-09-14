@@ -62,8 +62,13 @@ NPdenovo: http://www.wzgenomics.cn/NPdenovo/
 
 SZBD: https://academic.oup.com/schizophreniabulletin/article/43/2/459/2503611/SZDB-A-Database-for-Schizophrenia-Genetic-Research
 
+SFARI GENE: https://gene.sfari.org/
 
+AutDB: http://autism.mindspec.org/autdb/Welcome.do
 
+AGD: http://autism-genetic-db.net/site/home 
+
+AutismKB: http://autismkb.cbi.pku.edu.cn/index.php 
 
 ## Installation 
 
