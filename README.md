@@ -46,6 +46,25 @@ RVIs http://genic-intolerance.org/
 
 GTEx http://www.gtexportal.org/home/
 
+## Links of useful database
+
+SZGR: http://bioinfo.mc.vanderbilt.edu/SZGR/
+
+SZGene: http://www.szgene.org/
+
+BDgene: http://bdgene.psych.ac.cn/index.do
+
+BrainCloud: http://braincloud.jhmi.edu/
+
+BrainSpan: http://www.brainspan.org/
+
+NPdenovo: http://www.wzgenomics.cn/NPdenovo/
+
+SZBD: https://academic.oup.com/schizophreniabulletin/article/43/2/459/2503611/SZDB-A-Database-for-Schizophrenia-Genetic-Research
+
+
+
+
 ## Installation 
 
 Please clone the repository into your computer:
