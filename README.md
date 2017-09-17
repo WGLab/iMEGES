@@ -1,11 +1,11 @@
 ## iMEGES: integrated Mental-disorder Genome Score
 
-iMEGES is software that prioritize the mental disease genes. 
+iMEGES is software that prioritize the genes related to mental disease. 
 
 ## Introduction
 
 # Brain variant score (Variant prioritization)  
-The first step of the iMEGES take non-coding variants as input and prioritize the variants. We integrated five different scores from different predictors (such as EIGEN, CADD, DANN, GWAVA, FATHMM), GNOMAD frequency, known brain eQTLs from CommonMind and enhancer/promoters from PsychENCODE projects to prioritize the variants based on deep learning. 
+The first step of the iMEGES take non-coding variants as input and prioritize the brain variants. We integrated five different scores from different predictors (such as EIGEN, CADD, DANN, GWAVA, FATHMM), GNOMAD frequency, known brain eQTLs from CommonMind and enhancer/promoters from PsychENCODE projects to prioritize the non-coding variants based on deep learning. 
 
 # Disease specific brain gene score (Gene prioritization) 
 The gene prioritization step of iMEGES mainly based on annotations for each variant from the first step of iMEGES variant prioritization and machine learning based brain score named as ncDeepBrain.
