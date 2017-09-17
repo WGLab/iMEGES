@@ -32,7 +32,7 @@ FATHMM http://fathmm.biocompute.org.uk/
 
 GNOMAD http://gnomad.broadinstitute.org/
 
-PsychEncode
+PsychEncode https://www.synapse.org//#!Synapse:syn4921369/wiki/235539
 
 EpiMap https://www.synapse.org/#!Synapse:syn5691268
 
