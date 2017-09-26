@@ -72,15 +72,8 @@ AutismKB: http://autismkb.cbi.pku.edu.cn/index.php
 
 International Genomics of Alzheimer's Project (IGAP): http://web.pasteur-lille.fr/en/recherche/u744/igap/igap_download.php
 
-## The computations related links
-
-Keras: https://keras.io/
-
-Tensorflow: https://www.tensorflow.org/get_started/
-
-Theano: http://deeplearning.net/software/theano/
-
-Scikit: http://scikit-learn.org/stable/documentation.html 
+Roadmap Epigenomics: Brain enhancers and promoters
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/roadmapepigenomics/by_sample/
 
 
 ## Installation 
@@ -110,8 +103,6 @@ Atlas Khan (ak4046@cumc.columbia.edu)
 Kai Wang (kw2701@cumc.columbia.edu)
 
 ## Reference
-
-Khan A, Wang K, **A deep learning based scoring system for prioritizing susceptibility variants for mental disorders**, Submitted to BIBM 2017.
 
 Khan A, Wang K, **iMEGES: integrated Mental-disorder GEnome score for prioritizing the susceptibility genes in personal genomes**, In prepration.
 
