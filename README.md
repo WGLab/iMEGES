@@ -76,7 +76,7 @@ Roadmap Epigenomics: Brain enhancers and promoters
 ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/roadmapepigenomics/by_sample/
 
 
-## Computation related links
+## Computations related links
 Keras: https://keras.io/
 
 Tensorflow: https://www.tensorflow.org/
