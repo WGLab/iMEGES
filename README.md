@@ -68,7 +68,9 @@ AutDB: http://autism.mindspec.org/autdb/Welcome.do
 
 AGD: http://autism-genetic-db.net/site/home 
 
-AutismKB: http://autismkb.cbi.pku.edu.cn/index.php 
+AutismKB: http://autismkb.cbi.pku.edu.cn/index.php
+
+International Genomics of Alzheimer's Project (IGAP): http://web.pasteur-lille.fr/en/recherche/u744/igap/igap_download.php
 
 ## Installation 
 
