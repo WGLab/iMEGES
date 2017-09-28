@@ -87,7 +87,7 @@ Scikit: http://scikit-learn.org/stable/documentation.html
 
 ## Tensorflow
 
-We used kears library Tensorflow with backend.
+We used kears library with Tensorflow backend.
 
 
 ## Installation 
