@@ -5,18 +5,18 @@ iMEGES is a software tool that prioritize the whole genome variants and genes re
 ## Introduction
 iMEGES has two steps, which are as follows:
 
-# Brain variant score (Variant prioritization)  
+# Step 1: Brain variant score (Variant prioritization)  
 The first step of the iMEGES take non-coding variants as input and prioritize the brain non-coding variants. We integrated five different scores from different predictors (such as EIGEN, CADD, DANN, GWAVA, FATHMM), GNOMAD frequency, known brain eQTLs from CommonMind and enhancer/promoters from PsychENCODE and Roadmap Epigenomics projects to prioritize the non-coding variants based on deep learning. 
 
-# Brain gene score (Gene prioritization) 
-The gene prioritization step of iMEGES mainly based on annotations for each variant from the first step of iMEGES variant prioritization and machine learning based brain score named as ncDeepBrain.
-To characterize each gene, we annotated each of the variants with three genomic feature scores: 
-Machine learning brain variant score ncDeepBrain, general score (RVIs, GTEx, haploinsufficient scores), disease specific score such as Phenolyzer, CNVs score and denovo mutation score. To link the non-coding variants to a gene, we assigned each of these variants to it closet gene in term of genome distance, i.e., distance to gene is 100 KB or less. Considering the fact that maybe some genes harbor more than one mutations, we consider all the mutations and prioritize each of the variants for the specific mental disorders genes. After integration of these pieces of information, the output of the second layer is the deep learning probability for each of the mutated gene, namely the iMEGES score, which measure the susceptibility potential for this gene.
+# Step 2: Brain gene score (Gene prioritization) 
+The gene prioritization step 2 of iMEGES mainly based on annotations for each variant from the first step of iMEGES whole genome variant prioritization, brain score named as ncDeepBrain. To characterize each gene, we annotated each of the variants with three genomic feature scores: 
+Machine learning brain variant score ncDeepBrain, general score (RVIs, GTEx, haploinsufficient scores), disease specific score such as Phenolyzer, CNVs score and denovo mutation score. To link the non-coding variants to a gene, we assigned each of these variants to it closet gene in term of genome distance, i.e., distance to gene is 100 KB or less. Considering the fact that maybe some genes harbor more than one mutations, we consider all the mutations and prioritize each of the variants for the specific mental disorders genes. After integration of these pieces of information, the output of the second Step is the deep learning probability for each of the mutated gene and call it the iMEGES gene score, which measure the susceptibility potential for this gene to be involved in mental disorders.
 
 This is the GitHub repository for the documentation of the iMEGES software, described in the paper listed below. If you like this repository, please click on the "Star" button on top of this page, to show appreciation to the repository maintainer. If you want to receive notifications on changes to this repository, please click the "Watch" button on top of this page.
 
 
 ## Dependency
+
 Annovar http://annovar.openbioinformatics.org/en/latest/
 
 Phenolyzer http://phenolyzer.wglab.org/
@@ -78,6 +78,7 @@ ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/roadmapepigenomics/by_sample/
 
 
 ## Computations related links
+
 Keras: https://keras.io/
 
 Tensorflow: https://www.tensorflow.org/
@@ -89,7 +90,6 @@ Scikit: http://scikit-learn.org/stable/documentation.html
 ## Tensorflow
 
 We used keras library with Tensorflow backend for deep learning in our study. 
-
 
 ## Installation 
 
