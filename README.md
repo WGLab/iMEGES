@@ -83,7 +83,12 @@ Tensorflow: https://www.tensorflow.org/
 
 Theano: http://deeplearning.net/software/theano/
 
-Scikit: http://scikit-learn.org/stable/documentation.html 
+Scikit: http://scikit-learn.org/stable/documentation.html
+
+## Tensorflow
+
+We used kears library with backend Tensorflow.
+
 
 ## Installation 
 
