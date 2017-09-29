@@ -103,6 +103,8 @@ Then enter iMEGES directory:
     
 ## Synopsis
 
+## OPTIONS
+
     python ncDeepBrain.py --help
 
 
