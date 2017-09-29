@@ -105,6 +105,9 @@ Then enter iMEGES directory:
 
 ## OPTIONS
 
+* -h, --help show this help message and exit
+* --version show program''s version number and exit
+
     python ncDeepBrain.py --help
 
 
