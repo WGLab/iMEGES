@@ -3,7 +3,7 @@
 iMEGES is a software tool that prioritize the whole genome variants and genes related to mental disease. 
 
 ## Introduction
-iMEGES has two steps, which are as follows:
+iMEGES has main two steps, which are as follows:
 
 # Step 1: Brain variant score (Variant prioritization)  
 The first step of the iMEGES take non-coding variants as input and prioritize the brain non-coding variants. We integrated five different scores from different predictors (such as EIGEN, CADD, DANN, GWAVA, FATHMM), GNOMAD frequency, known brain eQTLs from CommonMind and enhancer/promoters from PsychENCODE and Roadmap Epigenomics projects to prioritize the non-coding variants based on deep learning. 
@@ -106,9 +106,20 @@ Then enter iMEGES directory:
 ## OPTIONS
 
 * -h, --help show this help message and exit
-* --version show program''s version number and exit
+*  -h, --help            show this help message and exit
+*  -f1 input.bed, --bed1 input.bed
+                        The Annovar input/bed format file
+* -E input.bed, --bed2 input.bed
+                        The list of the known brain eqtls from CommonMind
+*  -B bPCA.R, --bPCA bPCA.R
+                        The bPCA R code to do the imputation
+*  -o The name of output file, --out The name of output file
+                        The name of the output file
+*  -buildver out_hg_name, --hg out_hg_name
+                        The version of the genome
 
-    python ncDeepBrain.py --help
+
+           python ncDeepBrain.py --help
 
 
 ## License Agreement
