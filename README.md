@@ -134,9 +134,9 @@ Atlas Khan (ak4046@cumc.columbia.edu)
 Kai Wang (kw2701@cumc.columbia.edu)
 
 ## Reference
-Khan A, Wang K, **A deep learning based scoring system for prioritizing susceptibility variants for mental disorders**, Submitted to BIBM 2017.
+Khan A, Wang K, **A deep learning based scoring system for prioritizing susceptibility variants for mental disorders**, IEEE International Conference on Bioinformatics and Biomedicine (BIBM). Page: 1698-1705, 2017, DOI: 10.1109/BIBM.2017.8217916
 
-Khan A, Wang K, **iMEGES: integrated Mental-disorder GEnome score for prioritizing the susceptibility genes in personal genomes**, In prepration.
+Khan A, Liu Q, Wang K, **iMEGES: integrated Mental-disorder GEnome score for prioritizing the susceptibility genes in personal genomes**, Submitted.
 
 ## More information
 Wang Genomics Lab Homepage (http://wglab.org/)
