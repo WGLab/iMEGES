@@ -106,7 +106,7 @@ Then enter iMEGES directory:
 ## OPTIONS
 
 * -h, --help show this help message and exit
-*  -h, --help            show this help message and exit
+
 *  -f1 input.bed, --bed1 input.bed
                         The Annovar input/bed format file
 * -E input.bed, --bed2 input.bed
@@ -129,9 +129,9 @@ By using the software, you acknowledge that you agree to the terms below:
 For academic and non-profit use, you are free to fork, download, modify, distribute and use the software without restriction.
 
 ## Contact
-Atlas Khan (ak4046@cumc.columbia.edu)
+Atlas Khan (atlas.akhan@gmail.com)
 
-Kai Wang (kw2701@cumc.columbia.edu)
+Kai Wang (kaichop@gmail.com)
 
 ## Reference
 Khan A, Wang K, **A deep learning based scoring system for prioritizing susceptibility variants for mental disorders**, IEEE International Conference on Bioinformatics and Biomedicine (BIBM). Page: 1698-1705, 2017, DOI: 10.1109/BIBM.2017.8217916
