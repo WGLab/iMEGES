@@ -2,7 +2,7 @@
 # Author: Atlas Khan (ak4046@cumc.columbia.edu)
 # Created Time: 2017-05-31
 # Wang genomics lab http://wglab.org/
-# Description: python script for trimming of RNA-seq data using cutadapt
+# Description: python script for iMEGES
 ##################################################################################
 
 #!/usr/bin/env python
@@ -22,7 +22,7 @@ from liftOver_v02 import *
 
 version = """%prog
 Copyright (C) 2017 Wang Genomic Lab
-VerTect is free for non-commercial use without warranty.
+iMEGES is free for non-commercial use without warranty.
 Please contact the authors for commercial use.
 Written by Atlas Khan, ak4046@cumc.columbia.edu and atlas.akhan@gmail.com.
 ============================================================================
